@@ -1,0 +1,2 @@
+# Inside-GNSS-Autonomous-Vehicles
+Previously, controlled reception pattern antennas (CRPAs) were only in the military domain, and highly classified. The need to counter increasing  GNSS signal jamming and spoofing in the civil realm has brought CRPAs into limited use there as well.  How to test for their efficacy in product design and development https://insidegnss.com/category/b-applications/autonomous-vehicles/ .
